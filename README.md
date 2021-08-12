@@ -1,2 +1,2 @@
 # HackerRank
-My HackerRank solutions for certifications
+My HackerRank solutions
